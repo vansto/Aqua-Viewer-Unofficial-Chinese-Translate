@@ -7,7 +7,7 @@ Aqua Viewer是Aqua Server的网页UI
 ## 已部署的在线版
 请访问 [![Image URL](https://raw.githubusercontent.com/Raspberry-Monster/Aqua-Viewer-Unofficial-Chinese-Translate/master/favicon.ico)](http://aqua.raspberrymonster.top/)
 
-请注意:如果您使用HTTPS，浏览器可能会阻止至游戏服务器的HTTP连接
+请注意:如果您使用HTTPS，浏览器的安全策略可能会阻止您至游戏服务器的HTTP连接
 
 ## 下载构建
 
