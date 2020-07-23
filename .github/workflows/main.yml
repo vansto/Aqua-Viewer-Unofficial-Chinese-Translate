@@ -17,7 +17,7 @@ jobs:
       with:
         node-version: '12.x'
     - name: Install Dependencies
-      run: npm install
+      run: npm i
     - name: Deploy
       env:
         CI: true
