@@ -6,7 +6,7 @@ install:
 - sh: >-
     sudo curl -sL https://deb.nodesource.com/setup_12.x | bash -
 
-    sudo apt-get install -y nodejs
+    sudo apt-get install nodejs -y
 build_script:
 - sh: >-
     npm i
