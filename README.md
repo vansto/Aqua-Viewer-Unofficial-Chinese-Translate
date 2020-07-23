@@ -15,4 +15,4 @@ Aqua Viewer是Aqua Server的网页UI
 如果你是Angular的新手，请跟随[开发文档](https://angular.io/guide/deployment) .
 
 由Aqua Viewer Translate Team进行汉化
-![AppVeyor](https://img.shields.io/appveyor/build/RERASER/aqua-viewer-unofficial-chinese-translate)
+![AppVeyor](https://img.shields.io/appveyor/build/RERASER/aqua-viewer-unofficial-chinese-translate?style=flat&logo=appveyor)
