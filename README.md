@@ -9,7 +9,7 @@ Aqua Viewer是Aqua Server的网页UI
 
 请注意:如果您使用HTTPS，浏览器的安全策略可能会阻止您至游戏服务器的HTTP连接
 
-## 下载构建
+## 获取构建
 
 ### 自动构建 [![Build status](https://ci.appveyor.com/api/projects/status/3dxdn850ec5xn02x?svg=true)](https://ci.appveyor.com/project/RERASER/aqua-viewer-unofficial-chinese-translate/build/artifacts)
 
