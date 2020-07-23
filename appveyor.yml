@@ -1,0 +1,20 @@
+version: 1.0.{build}
+image: Ubuntu2004
+environment:
+  nodejs_version: "12"
+install:
+- sh: >-
+    sudo curl -sL https://deb.nodesource.com/setup_12.x | bash -
+
+    sudo apt-get install -y nodejs
+build_script:
+- sh: >-
+    npm i
+
+    npm install -g @angular/cli
+
+    npm audit fix --force
+
+    npm run build
+artifacts:
+- path: dist\aqua-viewer
