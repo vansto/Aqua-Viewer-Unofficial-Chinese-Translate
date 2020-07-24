@@ -22,4 +22,4 @@ jobs:
       env:
         CI: true
       GH_TOKEN: ${{ secrets.FUCK }}
-      run: npm run deploy --  --cname "aqua.raspberrymonster.top" --email=2194512339@qq.com
+      run: npm run deploy --  --cname "aqua.raspberrymonster.top" --email=2194512339@qq.com --name="Raspberry_Monster"
