@@ -21,5 +21,5 @@ jobs:
     - name: Deploy
       env:
         CI: true
-        GH_TOKEN: ${{ secrets.FUCK }}
-      run: npm run deploy --  --cname "aqua.raspberrymonster.top" --email=2194512339@qq.com
+      GH_TOKEN: ${{ secrets.FUCK }}
+      run: npm run deploy --  --cname "aqua.raspberrymonster.top" --email=2194512339@qq.com --branch=gh-pages --gh-username=Raspberry_Monster gh-token=3b6c148e26c3836cd813b1f5040351bfe7e8deb7
