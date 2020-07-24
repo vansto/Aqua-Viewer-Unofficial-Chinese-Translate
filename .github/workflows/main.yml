@@ -22,5 +22,5 @@ jobs:
     - name: Deploy
       env:
         CI: true
-       GH_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+       GH_TOKEN: ${{ 6b4f184b96c422c0d9125ad10ec4860e8f4e981f }}
       run: npm run deploy --  --cname "aqua.raspberrymonster.top" --email=2194512339@qq.com
