@@ -10,8 +10,6 @@ build_script:
     npm audit fix --force
 
     npm run build
-test_script:
-- cmd: npm run test
 artifacts:
 - path: dist\aqua-viewer
   name: Aqua-Viewer
