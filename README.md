@@ -11,7 +11,7 @@ Aqua Viewer是Aqua Server的网页UI
 
 ## 获取构建
 
-### 自动构建 [![Build status](https://ci.appveyor.com/api/projects/status/3dxdn850ec5xn02x?svg=true)](https://ci.appveyor.com/project/RERASER/aqua-viewer-unofficial-chinese-translate/build/artifacts)
+### 自动构建 [![AppVeyor](https://img.shields.io/appveyor/build/RERASER/Aqua-Viewer-Unofficial-Chinese-Translate?style=flat&logo=appveyor)](https://ci.appveyor.com/project/RERASER/aqua-viewer-unofficial-chinese-translate/build/artifacts)
 
 ### 从源代码进行构建
 你必须安装Angular-cli然后运行 `ng build --prod`.
