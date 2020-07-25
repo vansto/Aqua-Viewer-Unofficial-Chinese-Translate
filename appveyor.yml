@@ -1,0 +1,16 @@
+version: 1.0.{build}
+install:
+- ps: Install-Product node $env:nodejs_version
+build_script:
+- cmd: >-
+    npm i
+
+    npm install -g @angular/cli
+
+    npm audit fix --force
+
+    npm run build
+artifacts:
+- path: dist\aqua-viewer
+  name: Aqua-Viewer
+deploy: off
