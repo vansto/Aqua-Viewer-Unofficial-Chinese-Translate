@@ -5,7 +5,7 @@ Aqua Viewer是Aqua Server的网页UI
 这个项目基于 [Angular CLI](https://github.com/angular/angular-cli) 8.3.20版本生成.
 
 ## 已部署的在线版
-请访问 [![Image URL](http://aqua.raspberrymonster.top/favicon.ico)](http://aqua.raspberrymonster.top/)
+请访问 [![Image URL](https://aqua.raspberrymonster.top/favicon.ico)](http://aqua.raspberrymonster.top/)
 
 请注意:如果您使用HTTPS，浏览器的安全策略可能会阻止您至游戏服务器的HTTP连接
 
