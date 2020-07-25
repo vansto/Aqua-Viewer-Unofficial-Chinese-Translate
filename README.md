@@ -1,6 +1,7 @@
 # AquaViewer 
 请注意 这个分支是不稳定分支，可能会出现汉化错误或者是不完全汉化 且无CI,Workflow
 如果无特殊需求，请访问[稳定分支](https://github.com/Raspberry-Monster/Aqua-Viewer-Unofficial-Chinese-Translate)
+
 Aqua Viewer是Aqua Server的网页UI
 
 这个项目基于 [Angular CLI](https://github.com/angular/angular-cli) 8.3.20版本生成.
