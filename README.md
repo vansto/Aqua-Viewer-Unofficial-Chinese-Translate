@@ -4,14 +4,14 @@ Aqua Viewer是Aqua Server的网页UI
 
 这个项目基于 [Angular CLI](https://github.com/angular/angular-cli) 8.3.20版本生成.
 
-## 已部署的在线版
+## 已部署的稳定在线版
 请访问 [![Image URL](https://aqua.raspberrymonster.top/favicon.ico)](http://aqua.raspberrymonster.top/)
 
 请注意:如果您使用HTTPS，浏览器的安全策略可能会阻止您至游戏服务器的HTTP连接
 
 ## 获取构建
 
-### 自动构建 [![AppVeyor](https://img.shields.io/appveyor/build/RERASER/Aqua-Viewer-Unofficial-Chinese-Translate?style=flat&logo=appveyor)](https://ci.appveyor.com/project/RERASER/aqua-viewer-unofficial-chinese-translate/build/artifacts)
+### 自动构建 [![AppVeyor稳定版](https://img.shields.io/appveyor/build/RERASER/Aqua-Viewer-Unofficial-Chinese-Translate?style=flat&logo=appveyor)](https://ci.appveyor.com/project/RERASER/aqua-viewer-unofficial-chinese-translate/build/artifacts)
 
 ### 从源代码进行构建
 你必须安装Angular-cli然后运行 `ng build --prod`.
