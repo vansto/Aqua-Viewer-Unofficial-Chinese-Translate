@@ -18,4 +18,9 @@ Aqua Viewer是Aqua Server的网页UI
 
 如果你是Angular的新手，请跟随[开发文档](https://angular.io/guide/deployment) .
 
+## Stable和Unstable分支的区别
+Stable（master）：Aqua Viewer更新后，由Translators翻译完成后 经过校对再同步的版本，语法错误较少但是更新慢
+
+Unstable：Aqua Viewer更新后 立即同步，Translators翻译后立即同步的版本 更新快但是可能出现语法错误，无Github-Pages
+
 由Aqua Viewer Translate Team进行汉化
