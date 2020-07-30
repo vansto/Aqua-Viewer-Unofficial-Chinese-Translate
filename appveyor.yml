@@ -1,6 +1,6 @@
 version: 1.0.{build}
 install:
-- ps: Install-Product node $env:nodejs_version
+- ps: Install-Product node 12
 build_script:
 - cmd: >-
     npm cache clean --force
