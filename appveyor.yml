@@ -3,7 +3,7 @@ install:
 - ps: Install-Product node $env:nodejs_version
 build_script:
 - cmd: >-
-    npm i
+    npm install
 
     npm install -g @angular/cli
 
