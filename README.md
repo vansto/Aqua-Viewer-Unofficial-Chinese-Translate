@@ -1,6 +1,3 @@
-# 请注意 这个分支是不稳定分支，可能会出现汉化错误或者是不完全汉化 且无Workflow,Github-Pages	
-# 如果无特殊需求，请访问[Master分支](https://github.com/Raspberry-Monster/Aqua-Viewer-Unofficial-Chinese-Translate)	
-
 # AquaViewer
 
 Aqua Viewer是Aqua Server的网页UI
