@@ -1,6 +1,3 @@
-# 请注意 这个分支是不稳定分支，可能会出现汉化错误或者是不完全汉化 且无Workflow,Github-Pages	
-# 如果无特殊需求，请访问[Master分支](https://github.com/Raspberry-Monster/Aqua-Viewer-Unofficial-Chinese-Translate)	
-
 # AquaViewer
 
 Aqua Viewer是Aqua Server的网页UI
@@ -30,5 +27,6 @@ Unstable：Aqua Viewer更新后 立即同步，Translators翻译后立即同步�
 你必须安装Angular-cli然后运行 `ng build --prod`.
 
 如果你是Angular的新手，请跟随[开发文档](https://angular.cn/guide/deployment) .
+
 
 咕噜灵波汉化组 精心制作
