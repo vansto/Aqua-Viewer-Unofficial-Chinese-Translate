@@ -11,7 +11,7 @@ build_script:
 
     npm audit fix --force
 
-    npm run build
+    ng build --prod
 artifacts:
 - path: dist\aqua-viewer
   name: Aqua-Viewer
