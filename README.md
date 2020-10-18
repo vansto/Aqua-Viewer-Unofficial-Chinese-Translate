@@ -15,7 +15,7 @@ Aqua Viewer是Aqua Server的网页UI
 
 ### Stable分支自动构建 [![AppVeyor](https://img.shields.io/appveyor/build/RERASER/Aqua-Viewer-Unofficial-Chinese-Translate?style=flat&logo=appveyor)](https://ci.appveyor.com/project/RERASER/aqua-viewer-unofficial-chinese-translate/build/artifacts)
 
-### Unstable分支自动构建 [![AppVeyor](https://img.shields.io/appveyor/build/RERASER/aqua-viewer-unofficial-chinese-translate-unstable)](https://ci.appveyor.com/project/RERASER/aqua-viewer-unofficial-chinese-translate-unstable/build/artifacts)	
+### Unstable分支自动构建 [![AppVeyor](https://img.shields.io/appveyor/build/RERASER/aqua-viewer-unofficial-chinese-translate/branch/unstable](https://ci.appveyor.com/project/RERASER/aqua-viewer-unofficial-chinese-translate/branch/unstable)	
 
 ### Stable和Unstable分支的区别
 Stable（master）：Aqua Viewer更新后，由Translators翻译完成后 经过校对再同步的版本，语法错误较少但是更新慢
