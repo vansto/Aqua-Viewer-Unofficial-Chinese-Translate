@@ -7,11 +7,9 @@ build_script:
     
     npm install -g @angular/cli
     
-    npm i
-
-    npm audit fix --force
-
-    ng build --prod
+    npm ci
+    
+    npm run build
 artifacts:
 - path: dist\aqua-viewer
   name: Aqua-Viewer
