@@ -5,9 +5,13 @@ build_script:
 - cmd: >-
     npm cache clean --force
     
+    npm ci
+    
+    npm audit fix
+    
     npm install -g @angular/cli
     
-    npm ci
+    
     
     npm run build
 artifacts:
