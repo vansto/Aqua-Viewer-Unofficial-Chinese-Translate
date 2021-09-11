@@ -22,4 +22,4 @@ jobs:
       env:
         CI: true
         GH_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
-      run: npm run deploy -–base-href=/Aqua-Viewer-Unofficial-Chinese-Translate/ --name=Raspberry-Monster --email=2194512339@qq.com
+      run: npm run deploy --base-href=https://magicial-studio.github.io/Aqua-Viewer-Unofficial-Chinese-Translate/ --name=Raspberry-Monster --email=2194512339@qq.com
